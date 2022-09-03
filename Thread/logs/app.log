@@ -1,0 +1,25 @@
+
+2022-07-31 17:13:02,757 INFO o.c.MainThread [main]  *** START *** 
+2022-07-31 17:13:02,767 INFO o.c.MainThread [main]  *** END *** 
+2022-07-31 17:13:02,767 INFO o.c.MainThread [Thread-0] Thread Name: Thread One
+2022-07-31 17:13:02,769 INFO o.c.MainThread [Thread-0] Item add to the list: JOHN
+2022-07-31 17:13:02,769 INFO o.c.MainThread [Thread-0] Element JOHN does not exist in list so added it to the list.
+2022-07-31 17:13:02,769 INFO o.c.MainThread [Thread-0] 
+
+2022-07-31 17:13:02,770 INFO o.c.MainThread [Thread-3] Thread Name: Thread Four
+2022-07-31 17:13:02,770 INFO o.c.MainThread [Thread-3] Item add to the list: TOM
+2022-07-31 17:13:02,770 INFO o.c.MainThread [Thread-3] Element TOM does not exist in list so added it to the list.
+2022-07-31 17:13:02,770 INFO o.c.MainThread [Thread-3] 
+
+2022-07-31 17:13:02,770 INFO o.c.MainThread [Thread-4] Thread Name: Thread Five
+2022-07-31 17:13:02,771 INFO o.c.MainThread [Thread-4] Item add to the list: TOM
+2022-07-31 17:13:02,771 INFO o.c.MainThread [Thread-4] 
+
+2022-07-31 17:13:02,772 INFO o.c.MainThread [Thread-2] Thread Name: Thread Three
+2022-07-31 17:13:02,773 INFO o.c.MainThread [Thread-2] Item add to the list: JOHN
+2022-07-31 17:13:02,773 INFO o.c.MainThread [Thread-2] 
+
+2022-07-31 17:13:02,774 INFO o.c.MainThread [Thread-1] Thread Name: Thread Two
+2022-07-31 17:13:02,774 INFO o.c.MainThread [Thread-1] Item add to the list: JOHN
+2022-07-31 17:13:02,774 INFO o.c.MainThread [Thread-1] 
+

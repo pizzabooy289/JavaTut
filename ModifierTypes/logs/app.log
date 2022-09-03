@@ -1,0 +1,5 @@
+2022-07-31 22:47:31,419 INFO o.c.M.MainModifierTypes [main] *** MODIFIER TYPES ***
+2022-07-31 22:47:31,422 INFO o.c.M.MainModifierTypes [main] --- Java Access Modifiers (Default) ---
+2022-07-31 22:47:31,429 INFO o.c.M.D.Car [main] Truck Name: Minivan
+2022-07-31 22:47:31,429 INFO o.c.M.MainModifierTypes [main] --- Java Access Modifiers (Protected) ---
+2022-07-31 22:47:31,432 INFO o.c.M.P.Van [main] Truck Name: Sienna

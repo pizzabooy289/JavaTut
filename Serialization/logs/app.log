@@ -1,0 +1,6 @@
+2022-07-31 23:56:30,457 INFO o.c.MainSerialization [main] *** SERIALIZATION ***
+2022-07-31 23:56:30,478 INFO o.c.MainSerialization [main] Object Persisted
+2022-07-31 23:56:30,478 INFO o.c.MainSerialization [main] *** Deserialization ***
+2022-07-31 23:56:30,525 INFO o.c.MainSerialization [main] PersonDetails [name=hemanth, age=10, sex=Male]
+2022-07-31 23:56:30,525 INFO o.c.MainSerialization [main] PersonDetails [name=bob, age=12, sex=Male]
+2022-07-31 23:56:30,525 INFO o.c.MainSerialization [main] PersonDetails [name=Richa, age=10, sex=Female]

@@ -1,0 +1,16 @@
+
+2022-08-01 10:53:22,672 INFO o.c.ConnectionPoolTest [main] 
+ ConnectionPool [myConn=[ 
+ MyConnection [inUse=false, idNumber=6e669bc3-fbee-496f-b361-30a3b4f4f292],  
+ MyConnection [inUse=false, idNumber=8841b3d8-54b6-4029-a469-48bf699fa234],  
+ MyConnection [inUse=false, idNumber=4921a3ac-f4a7-45d5-bbfb-96195153c2ba]]]
+2022-08-01 10:53:22,680 INFO o.c.ConnectionPoolTest [main]  *** START *** 
+2022-08-01 10:53:22,688 INFO o.c.ConnectionPool [main] checkOutConnection:  
+ MyConnection [inUse=true, idNumber=6e669bc3-fbee-496f-b361-30a3b4f4f292]
+2022-08-01 10:53:22,689 INFO o.c.ConnectionPoolTest [main] New check out connection:  
+ MyConnection [inUse=true, idNumber=6e669bc3-fbee-496f-b361-30a3b4f4f292]
+2022-08-01 10:53:22,689 INFO o.c.ConnectionPool [main] checkInConnection:  
+ MyConnection [inUse=false, idNumber=6e669bc3-fbee-496f-b361-30a3b4f4f292]
+2022-08-01 10:53:22,690 INFO o.c.ConnectionPoolTest [main] Check back into the pool:  
+ MyConnection [inUse=false, idNumber=6e669bc3-fbee-496f-b361-30a3b4f4f292]
+2022-08-01 10:53:22,690 INFO o.c.ConnectionPoolTest [main]  *** END *** 
